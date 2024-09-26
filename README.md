@@ -18,6 +18,10 @@ JavaScript: Powers the dynamic functionality of the Expense Tracker.
 Code Overview
 The JavaScript code manages the addition and deletion of transactions while also updating the local storage. This means your transactions are stored locally, ensuring that your data remains persistent between sessions.
 
+![image](https://github.com/user-attachments/assets/847a195c-716b-4a43-8b2c-7bb519443f84)
+
+![image](https://github.com/user-attachments/assets/e159dc75-2532-418f-b1e0-1496717c93c7)
+
 How to Run
 Just open the index.html file in any web browser to start using the Expense Tracker.
 
